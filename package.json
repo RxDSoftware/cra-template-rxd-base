@@ -1,0 +1,32 @@
+{
+  "name": "@rxdsoftware/cra-template-rxd-base",
+  "version": "0.0.1",
+  "description": "RxD Software's base Create React App template.",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "sass",
+    "mui",
+    "materialui",
+    "rxd",
+    "rxdsoftware"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RxDSoftware/cra-template-rxd-base.git"
+  },
+  "author": "RxD Software LLC",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
